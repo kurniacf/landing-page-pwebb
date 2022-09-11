@@ -8,7 +8,7 @@
 
 ## Deskripsi Tugas
 Membuat website landing page dan kalin ini yang saya buat adalah website landing page tentang penjualan jajanan pasar khas Indonesia. 
-Link website yang telah dibuat adalah sebagai berikut <a href="">Website Landing Page Jajan Kuy</a>
+Link website yang telah dibuat adalah sebagai berikut <a href="https://kurniacf.github.io/landing-page-pwebb/">Website Landing Page Jajan Kuy</a>
 
 <br/>
 
